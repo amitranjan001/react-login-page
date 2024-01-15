@@ -1,3 +1,7 @@
+# Output of the above code
+<img width="942" alt="image" src="https://github.com/amitranjan001/react-login-page/assets/86253612/42fbc121-b13b-4c3a-a905-12d503d140a1">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
